@@ -1,6 +1,6 @@
 # Mode d'emploi — Benchmarking SLMs with Polars
 
-## Mode opératoire en 1 page (ultra court)
+## Mode opératoire en 1 page (TLDR)
 
 ### Objectif
 - Lancer un benchmark de génération de code et voir les résultats dans un tableau simple.
